@@ -1,0 +1,5 @@
+<?xml version="1.1" encoding="utf-8"?>
+<content id="ws_2978384393" name="realisticbeams" description="Makes Beams a bit more realistic. They deal less damage but have a lot longer range. Also, for balancing reasons, rotation speed is lower." author="ColdRogue26" version="110" date="2023-05-20" save="0" enabled="1" sync="false" lastupdate="1684615326">
+  <dependency id="ego_dlc_split" version="100" optional="true" name="Split Vendetta"/>
+  <dependency id="ego_dlc_terran" version="100" optional="true" name="Cradle of Humanity"/>
+</content>

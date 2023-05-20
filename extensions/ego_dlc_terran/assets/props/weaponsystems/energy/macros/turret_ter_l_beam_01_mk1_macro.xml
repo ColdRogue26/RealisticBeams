@@ -1,0 +1,3 @@
+<diff>
+	<replace sel="//macros/macro/properties/rotationspeed/@max">3</replace>
+</diff>
