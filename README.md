@@ -5,4 +5,4 @@ Mod includes all DLC beam turrets, but DLCs are optional. Mod compatibility not 
 
 
 To-Do:
-Beam Emitters Main Guns
+Mod Compatibility
